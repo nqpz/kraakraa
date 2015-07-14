@@ -47,11 +47,9 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
-*.log
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
+# Ren'Py stuff:
+/log.txt
+/tmp
+*.rpy[bc]
+*.rpy.bak
+/game/saves
